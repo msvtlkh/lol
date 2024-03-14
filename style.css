@@ -128,7 +128,7 @@ ul {
 }
 
 .btn__remove::after {
-    content: url('/close-icon.svg');
+    content: url('./close-icon.svg');
     height: 10px;
     width: 10px;
 }
