@@ -86,7 +86,7 @@ ul {
 
 .btn__add::after {
     position: absolute;
-    content: url('/close-icon.svg');
+    content: url('./close-icon.svg');
 
     margin-left: auto;
     margin-right: auto;
